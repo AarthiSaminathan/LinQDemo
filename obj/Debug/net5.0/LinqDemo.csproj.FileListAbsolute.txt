@@ -1,0 +1,16 @@
+D:\Aarthi\dotnet\LinqDemo\bin\Debug\net5.0\LinqDemo.exe
+D:\Aarthi\dotnet\LinqDemo\bin\Debug\net5.0\LinqDemo.deps.json
+D:\Aarthi\dotnet\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.json
+D:\Aarthi\dotnet\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.dev.json
+D:\Aarthi\dotnet\LinqDemo\bin\Debug\net5.0\LinqDemo.dll
+D:\Aarthi\dotnet\LinqDemo\bin\Debug\net5.0\ref\LinqDemo.dll
+D:\Aarthi\dotnet\LinqDemo\bin\Debug\net5.0\LinqDemo.pdb
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.csproj.AssemblyReference.cache
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfoInputs.cache
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfo.cs
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.csproj.CoreCompileInputs.cache
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.dll
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\ref\LinqDemo.dll
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.pdb
+D:\Aarthi\dotnet\LinqDemo\obj\Debug\net5.0\LinqDemo.genruntimeconfig.cache
